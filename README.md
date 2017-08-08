@@ -10,3 +10,5 @@ This is now even more editing, done in GitHub Desktop!!
 More editing, done in command line
 
 Additional lines (try with commit -m "message")
+
+Added to 'feature' branch
