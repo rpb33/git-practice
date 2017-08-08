@@ -11,5 +11,11 @@ More editing, done in command line
 
 Additional lines (try with commit -m "message")
 
+<<<<<<< HEAD
 
 Edited in Master branch
+=======
+Added to 'feature' branch
+
+Edited in SublimeText, feature branch selected
+>>>>>>> feature/modified
