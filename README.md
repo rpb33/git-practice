@@ -14,3 +14,5 @@ Additional lines (try with commit -m "message")
 Added to 'feature' branch
 
 Edited in SublimeText, feature branch selected
+
+final edit to feature branch
